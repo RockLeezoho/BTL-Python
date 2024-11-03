@@ -1,0 +1,172 @@
+﻿,Attribute
+0,Player
+1,Nation
+2,Pos
+3,Squad
+4,Age
+5,Playing Time.MP
+6,Playing Time.Starts
+7,Playing Time.Min
+8,Performance.G-PK
+9,Performance.PK
+10,Performance.Ast
+11,Performance.CrdY
+12,Performance.CrdR
+13,Expected.xG
+14,Expected.npxG
+15,Expected.xAG
+16,Progression.PrgC
+17,Progression.PrgP
+18,Progression.PrgR
+19,Per 90 Minutes.Gls
+20,Per 90 Minutes.Ast
+21,Per 90 Minutes.G+A
+22,Per 90 Minutes.G-PK
+23,Per 90 Minutes.G+A-PK
+24,Per 90 Minutes.xG
+25,Per 90 Minutes.xAG
+26,Per 90 Minutes.xG+xAG
+27,Per 90 Minutes.npxG
+28,Per 90 Minutes.npxG+xAG
+29,Player Goalkeeping.Performance.GA
+30,Player Goalkeeping.Performance.GA90
+31,Player Goalkeeping.Performance.SoTA
+32,Player Goalkeeping.Performance.Saves
+33,Player Goalkeeping.Performance.Save%
+34,Player Goalkeeping.Performance.W
+35,Player Goalkeeping.Performance.D
+36,Player Goalkeeping.Performance.L
+37,Player Goalkeeping.Performance.CS
+38,Player Goalkeeping.Performance.CS%
+39,Player Goalkeeping.Penalty Kicks.PKatt
+40,Player Goalkeeping.Penalty Kicks.PKA
+41,Player Goalkeeping.Penalty Kicks.PKsv
+42,Player Goalkeeping.Penalty Kicks.PKm
+43,Player Goalkeeping.Penalty Kicks.Save%
+44,Player Shooting.Standard.Gls
+45,Player Shooting.Standard.Sh
+46,Player Shooting.Standard.SoT
+47,Player Shooting.Standard.SoT%
+48,Player Shooting.Standard.Sh/90
+49,Player Shooting.Standard.SoT/90
+50,Player Shooting.Standard.G/Sh
+51,Player Shooting.Standard.G/SoT
+52,Player Shooting.Standard.Dist
+53,Player Shooting.Standard.FK
+54,Player Shooting.Standard.PK
+55,Player Shooting.Expected.xG
+56,Player Shooting.Expected.npxG
+57,Player Shooting.Expected.npxG/Sh
+58,Player Shooting.Expected.G-xG
+59,Player Shooting.Expected.np:G-xG
+60,Player Passing.Total.Cmp
+61,Player Passing.Total.Att
+62,Player Passing.Total.Cmp%
+63,Player Passing.Total.TotDist
+64,Player Passing.Total.PrgDist
+65,Player Passing.Short.Cmp
+66,Player Passing.Short.Att
+67,Player Passing.Short.Cmp%
+68,Player Passing.Medium.Cmp
+69,Player Passing.Medium.Att
+70,Player Passing.Medium.Cmp%
+71,Player Passing.Long.Cmp
+72,Player Passing.Long.Att
+73,Player Passing.Long.Cmp%
+74,Player Passing.Expected.Ast
+75,Player Passing.Expected.xAG
+76,Player Passing.Expected.xA
+77,Player Passing.Expected.A-xAG
+78,Player Passing.Expected.KP
+79,Player Passing.Expected.1/3
+80,Player Passing.Expected.PPA
+81,Player Passing.Expected.CrsPA
+82,Player Passing.Expected.PrgP
+83,Player Pass Types.Pass Types.Live
+84,Player Pass Types.Pass Types.Dead
+85,Player Pass Types.Pass Types.FK
+86,Player Pass Types.Pass Types.TB
+87,Player Pass Types.Pass Types.Sw
+88,Player Pass Types.Pass Types.Crs
+89,Player Pass Types.Pass Types.TI
+90,Player Pass Types.Pass Types.CK
+91,Player Pass Types.Corner Kicks.In
+92,Player Pass Types.Corner Kicks.Out
+93,Player Pass Types.Corner Kicks.Str
+94,Player Pass Types.Outcomes.Cmp
+95,Player Pass Types.Outcomes.Off
+96,Player Pass Types.Outcomes.Blocks
+97,Player Goal and Shot Creation.SCA.SCA
+98,Player Goal and Shot Creation.SCA.SCA90
+99,Player Goal and Shot Creation.SCA Types.PassLive
+100,Player Goal and Shot Creation.SCA Types.PassDead
+101,Player Goal and Shot Creation.SCA Types.TO
+102,Player Goal and Shot Creation.SCA Types.Sh
+103,Player Goal and Shot Creation.SCA Types.Fld
+104,Player Goal and Shot Creation.SCA Types.Def
+105,Player Goal and Shot Creation.GCA.GCA
+106,Player Goal and Shot Creation.GCA.GCA90
+107,Player Goal and Shot Creation.GCA Types.PassLive
+108,Player Goal and Shot Creation.GCA Types.PassDead
+109,Player Goal and Shot Creation.GCA Types.TO
+110,Player Goal and Shot Creation.GCA Types.Sh
+111,Player Goal and Shot Creation.GCA Types.Fld
+112,Player Goal and Shot Creation.GCA Types.Def
+113,Player Defensive Actions.Tackles.Tkl
+114,Player Defensive Actions.Tackles.TklW
+115,Player Defensive Actions.Tackles.Def 3rd
+116,Player Defensive Actions.Tackles.Mid 3rd
+117,Player Defensive Actions.Tackles.Att 3rd
+118,Player Defensive Actions.Challenges.Tkl
+119,Player Defensive Actions.Challenges.Att
+120,Player Defensive Actions.Challenges.Tkl%
+121,Player Defensive Actions.Challenges.Lost
+122,Player Defensive Actions.Blocks.Blocks
+123,Player Defensive Actions.Blocks.Sh
+124,Player Defensive Actions.Blocks.Pass
+125,Player Defensive Actions.Blocks.Int
+126,Player Defensive Actions.Blocks.Tkl+Int
+127,Player Defensive Actions.Blocks.Clr
+128,Player Defensive Actions.Blocks.Err
+129,Player Possession.Touches.Touches
+130,Player Possession.Touches.Def Pen
+131,Player Possession.Touches.Def 3rd
+132,Player Possession.Touches.Mid 3rd
+133,Player Possession.Touches.Att 3rd
+134,Player Possession.Touches.Att Pen
+135,Player Possession.Touches.Live
+136,Player Possession.Take-Ons.Att
+137,Player Possession.Take-Ons.Succ
+138,Player Possession.Take-Ons.Succ%
+139,Player Possession.Take-Ons.Tkld
+140,Player Possession.Take-Ons.Tkld%
+141,Player Possession.Carries.Carries
+142,Player Possession.Carries.TotDist
+143,Player Possession.Carries.PrgDist
+144,Player Possession.Carries.PrgC
+145,Player Possession.Carries.1/3
+146,Player Possession.Carries.CPA
+147,Player Possession.Carries.Mis
+148,Player Possession.Carries.Dis
+149,Player Possession.Receiving.Rec
+150,Player Possession.Receiving.PrgR
+151,Player Playing Time.Starts.Starts
+152,Player Playing Time.Starts.Mn/Start
+153,Player Playing Time.Starts.Compl
+154,Player Playing Time.Subs.Subs
+155,Player Playing Time.Subs.Mn/Sub
+156,Player Playing Time.Subs.unSub
+157,Player Playing Time.Team Success.PPM
+158,Player Playing Time.Team Success.onG
+159,Player Playing Time.Team Success.onGA
+160,Player Playing Time.Team Success (xG).onxG
+161,Player Playing Time.Team Success (xG).onxGA
+162,Player Miscellaneous Stats.Performance.Fls
+163,Player Miscellaneous Stats.Performance.Fld
+164,Player Miscellaneous Stats.Performance.Off
+165,Player Miscellaneous Stats.Performance.Crs
+166,Player Miscellaneous Stats.Performance.OG
+167,Player Miscellaneous Stats.Performance.Recov
+168,Player Miscellaneous Stats.Aerial Duels.Won
+169,Player Miscellaneous Stats.Aerial Duels.Lost
+170,Player Miscellaneous Stats.Aerial Duels.Won%
